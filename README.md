@@ -1,7 +1,3 @@
-# Python_Classes-Class01
+# Python_Classes
 
-# print Command Hello World, You can write any string(name or sentance with the use of "string")
-
-print ("Hello World")
-print("I am a student of NED University")
-print("Imran Haider")
+I'm doing PGD from NED University in the program of Data Science
